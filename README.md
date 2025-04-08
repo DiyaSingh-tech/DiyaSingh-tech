@@ -2,8 +2,7 @@ Hey there, I'm Diya Singh 🙋‍♀️
 - 🚀 I am passionate about exploring the world of AI and computer engineering
 - 🌱 I’m currently learning new programming languages to contribute towards building smart & creative solutions
 - 🤝 I’m looking to collaborate on hands-on projects where I can learn, grow, and apply new skills
-- 📫 How to reach me: [LinkenIn](www.linkedin.com/in/diya-singh-1323232a7)
-- 😄 Pronouns: ...
+- 📫 Shoot me a message at: [LinkedIn](https://www.linkedin.com/in/diya-singh-1323232a7/)
 - ⚡ Fun fact: ...
 
 <!---
